@@ -22,6 +22,12 @@
  <a href="https://discord.gg/8966M3jY9c" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:millamsq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-quadros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="center" src="https://i.pinimg.com/originals/ed/64/7b/ed647b105ca0ab65fc33b6ff819ab05f.gif">
 </div>
+  
+##
+
+<div>
+   <p>WELCOME!!!</p>
+   <img align="center" src="https://i.pinimg.com/originals/ed/64/7b/ed647b105ca0ab65fc33b6ff819ab05f.gif">
+ </div>
 
