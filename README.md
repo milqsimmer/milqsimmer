@@ -8,7 +8,7 @@
 - 💬 Ask me about Friends (the TVShow), so we can be friends 🤭
 - 📫 How to reach me: millamsq@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am the mother of 2 chinchillas: Sherlock and Watson 🐰🐭 , edit: wellcome, baby Clandler 🐇
+- ⚡ Fun fact: I am the mother of 2 chinchillas: Sherlock and Watson 🐰🐭 , edit: welcome, baby Clandler 🐇
 ##
 <div>
   <a href="https://github.com/milqsimmer">
