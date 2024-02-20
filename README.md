@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I am Mila, also known as MilQ Simmer on twitch community ✌💕
 
-- 🔭 I’m currently working on a well renowned R&D center as a full-stack developer🤗
-- 🌱 I’m currently learning Python, Django, Html, JavaScrit and CSS... I know, all over the place 🤷🏾‍♀️
+- 🔭 I’m currently working as a freelancer🤗
+- 🌱 I’m currently learning more about Python, JavaScrit and TypeScript... 🤷🏾‍♀️
 - 👯 I’m looking to collaborate on anything I can
 - 🤔 I’m looking for help with all my projects... any help is welcome 
 - 💬 Ask me about Friends (the TVShow), so we can be friends 🤭
