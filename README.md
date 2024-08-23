@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Mila, also known as MilQ Simmer on twitch community ✌💕
 
-- 🔭 I’m currently working as a freelancer🤗
+- 🔭 I’m currently working as a developer🤗
 - 🌱 I’m currently learning more about Python, JavaScript and TypeScript... 🤷🏾‍♀️
 - 👯 I’m looking to collaborate on anything I can
 - 🤔 I’m looking for help with all my projects... any help is welcome 
