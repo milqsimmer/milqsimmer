@@ -12,8 +12,8 @@
 ##
 <div>
   <a href="https://github.com/milqsimmer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=milqsimmer&show_icons=true&hide=contribs,prs&theme=bear&include_all_commits=true&count_private=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milqsimmer&layout=compact&langs_count=7&theme=bear"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=milqsimmer&show_icons=true&hide=contribs&theme=bear&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milqsimmer&layout=compact&langs_count=7&theme=bear&hide=jupyter%20notebook"/>
 </div>
 
 <div style="display: inline_block"><br>
