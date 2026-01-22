@@ -1,14 +1,14 @@
 ### Hi there 👋
-### I am Mila, also known as MilQ Simmer on twitch community ✌💕
+### I am Mila, also known as MilQSimmer on the gaming community ✌💕
 
 - 🔭 I’m currently working as a developer🤗
-- 🌱 I’m currently learning more about Python, JavaScript and TypeScript... 🤷🏾‍♀️
+- 🌱 I’m currently studying for improving my knowledge in Python, JavaScript and TypeScript... 🤷🏾‍♀️
 - 👯 I’m looking to collaborate on anything I can
 - 🤔 I’m looking for help with all my projects... any help is welcome 
 - 💬 Ask me about Friends (the TVShow), so we can be friends 🤭
 - 📫 How to reach me: millamsq@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am the mother of 2 chinchillas: Sherlock and Watson 🐰🐭 , edit: welcome, baby Clandler 🐇
+- ⚡ Fun fact: I am the mother of 3 chinchillas: Sherlock and Watson 🐰🐭 and, my youngest, Clandler 🐇
 ##
 <div>
   <a href="https://github.com/milqsimmer">
