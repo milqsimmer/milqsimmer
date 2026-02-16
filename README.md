@@ -1,10 +1,9 @@
 ### Hi there 👋
 ### I am Mila, also known as MilQSimmer on the gaming community ✌💕
 
-- 🔭 I’m currently working as a developer🤗
-- 🌱 I’m currently studying for improving my knowledge in Python, JavaScript and TypeScript... 🤷🏾‍♀️
+- 🔭 I’m currently working as a AI engineer🤗
+- 🌱 I’m currently pursuing a Master’s degree focused on Reinforcement Learning and robotic control systems 🤷🏾‍♀️
 - 👯 I’m looking to collaborate on anything I can
-- 🤔 I’m looking for help with all my projects... any help is welcome 
 - 💬 Ask me about Friends (the TVShow), so we can be friends 🤭
 - 📫 How to reach me: millamsq@gmail.com
 - 😄 Pronouns: she/her
@@ -17,9 +16,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://instagram.com/milqsimmer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/milqsimmer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/8966M3jY9c" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:millamsq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-quadros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
